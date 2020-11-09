@@ -1,4 +1,4 @@
-# The information below is copied from Coursera Practical Machine Learning Course:
+### (The information below is copied from Coursera Practical Machine Learning Course)
 
 # Course Project Instructions
 
